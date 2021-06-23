@@ -5,7 +5,7 @@ O Money Converter é um aplicativo simples onde é possível ver a cotação atu
 
 # Layout
 
-<img src="images/img1.png" width="216" height="440"> <img src="images/img2.png" width="216" height="440"> <img src="images/img3.png" width="216" height="440"> <img src="images/img4.png" width="216" height="440">
+src="images/img4.png" width="216" height="440"> <img src="images/img1.png" width="216" height="440"> <img src="images/img2.png" width="216" height="440"> <img src="images/img3.png" width="216" height="440"> <img 
 
 # Funcionamento
 
