@@ -23,4 +23,4 @@ O objetivo deste aplicativo foi ter o primeiro contato dentro de uma aplicação
 # Autor
 Murilo Steinmetz Böhlke
 
-https://www.linkedin.com/murilobohlke
+https://www.linkedin.com/in/murilobohlke/
