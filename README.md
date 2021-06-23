@@ -5,7 +5,7 @@ O Money Converter é um aplicativo simples onde é possível ver a cotação atu
 
 # Layout
 
-![Mobile_1] (images/img1.png) ![Mobile_1] (https://github.com/murilobohlke/money-converter/blob/main/images/img2.png) ![Mobile_1] (https://github.com/murilobohlke/money-converter/blob/main/images/img3.png) ![Mobile_1] (https://github.com/murilobohlke/money-converter/blob/main/images/img4.png)
+![Mobile_1](images/img1.png) ![Mobile_2](images/img2.png) 
 
 # Funcionamento
 
